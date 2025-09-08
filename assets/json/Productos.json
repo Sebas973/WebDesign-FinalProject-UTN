@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Gel X",
+    "texto": "Las uñas Gel X son una extensión suave y flexible que se adhiere completamente a tu uña natural usando gel. Son ligeras, cómodas y perfectas si buscas longitud sin dañar tus uñas. ¡Ideales para quienes aman cambiar de look con frecuencia!",
+    "imagen": "https://sebas973.github.io/WebDesignUTN/ProyectoWeb/assets/img/GelX.jpg"
+  },
+  {
+    "titulo": "Polygel",
+    "texto": "El Polygel combina lo mejor del acrílico y el gel: es más ligero que el acrílico pero más fuerte que el gel tradicional. Se moldea fácilmente para lograr la forma deseada y ofrece un acabado duradero, sin olores fuertes. Perfecto para looks resistentes y elegantes.",
+    "imagen": "https://sebas973.github.io/WebDesignUTN/ProyectoWeb/assets/img/Polygel.png"
+  },
+  {
+    "titulo": "Rubber - Naturales",
+    "texto": "El rubber base (o base de caucho) se aplica sobre la uña natural para fortalecerla, corregir imperfecciones y lograr un acabado suave y resistente. No alarga la uña, pero la protege. Es ideal si quieres mantener tus uñas cortas pero impecables.",
+    "imagen": "https://sebas973.github.io/WebDesignUTN/ProyectoWeb/assets/img/Rubber.jpg"
+  },
+  {
+    "titulo": "Esmaltado Semipermanente",
+    "texto": "Es un esmalte que se cura con lámpara UV/LED y dura entre 2 y 3 semanas sin descascararse. No daña la uña natural y es perfecto para quienes desean un look pulido y duradero sin extensiones.",
+    "imagen": "https://sebas973.github.io/WebDesignUTN/ProyectoWeb/assets/img/Semipermanente.jpg"
+  }
+]
