@@ -1,18 +1,18 @@
 # Valerita’s Nails – Web Design Final Project (UTN)
 
-A responsive, multi-page website designed for a fictional nail salon—developed as a final project for the UTN Web Design course.
+A responsive, multi-page website designed for an entrepreneur nail salon—developed as a final project for the Universidad Tecnica Nacional(UTN) Web Design course.
 
 ---
 
 ## Live Demo  
-Visit the live version here: [Valerita’s Nails Website](https://sebas973.github.io/WebDesign-FinalProject-UTN/)
+Visit the live version here: [Valerita’s Nails Website](https://sebas973.github.io/WebDesign-FinalProject-UTN/index.html)
 
 ---
 
 ## Features  
 - **Homepage** with an inviting welcome message and clear call-to-action buttons (**“Schedule Now”**) for easy booking.  
 - **About Us** section describing the salon’s values and personalized approach.  
-- **Services/Products** section showcasing offerings like Gel X, Polygel, Natural Rubber, and Semi-Permanent Polish.  
+- **Services/Products** section showcasing offerings of services/products.  
 - **Portfolio** gallery to display previous nail design work.  
 - **Contact Page** with email, phone number, and location in Costa Rica.  
 - Consistent navigation menu and footer across all pages for intuitive UX.
@@ -20,7 +20,8 @@ Visit the live version here: [Valerita’s Nails Website](https://sebas973.githu
 ---
 
 ## Technologies Used  
-- HTML5 & CSS (Bootstrap-based layout and components)  
+- HTML5 & CSS (Bootstrap-based layout and components)
+- JavaScript to add front end functionalities
 - Responsive design for mobile and desktop use  
 - Clean and brand-focused visual styling
 
@@ -42,8 +43,8 @@ Visit the live version here: [Valerita’s Nails Website](https://sebas973.githu
 ---
 
 ## Author  
-- **Sebastián** — Web Design Final Project, UTN  
-- Crafted using Bootstrap, HTML5, and CSS with emphasis on clean, user-friendly design.
+- **Sebastian Montero Segura** — Web Design Final Project, UTN
+- Crafted using Bootstrap, HTML5, and CSS with emphasis on clean, user-friendly and responsive design.
 
 ---
 
