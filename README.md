@@ -1,6 +1,6 @@
 # Valerita’s Nails – Web Design Final Project (UTN)
 
-A responsive, multi-page website designed for an entrepreneur nail salon—developed as a final project for the Universidad Tecnica Nacional(UTN) Web Design course.
+A responsive, multi-page website designed for an entrepreneurial nail salon—developed as a final project for the Universidad Técnica Nacional (UTN) Web Design course.
 
 ---
 
@@ -50,4 +50,4 @@ Visit the live version here: [Valerita’s Nails Website](https://sebas973.githu
 ---
 
 ## License  
-MIT (or whichever license you prefer)
+MIT
