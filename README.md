@@ -42,9 +42,10 @@ Visit the live version here: [Valerita’s Nails Website](https://sebas973.githu
 
 ---
 
-## Author  
+## Author / Contact
 - **Sebastian Montero Segura** — Web Design Final Project, UTN
-- Crafted using Bootstrap, HTML5, and CSS with emphasis on clean, user-friendly and responsive design.
+- [LinkedIn](www.linkedin.com/in/sebas973)
+- **Email:** monterosebastian102@gmail.com
 
 ---
 
