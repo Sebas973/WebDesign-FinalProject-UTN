@@ -1,5 +1,5 @@
 function cargarProductos() {
-    const url = `https://sebas973.github.io/WebDesignUTN/ProyectoWeb/assets/json/Productos.json`;
+    const url = `https://github.com/Sebas973/WebDesign-FinalProject-UTN/assets/json/Productos.json`;
 
     $.getJSON(url, function (data) {
         $.each(data, function (index, producto) {
@@ -17,4 +17,5 @@ function cargarProductos() {
             $('#productContainer').append(cardHTML);
         })
     });
+
 }
