@@ -1,5 +1,5 @@
 function cargarPortafolio() {
-    const url = `https://github.com/Sebas973/WebDesign-FinalProject-UTN/assets/json/InstagramPosts.json`;
+    const url = `https://sebas973.github.io/WebDesign-FinalProject-UTN/assets/json/InstagramPosts.json`;
 
     $.getJSON(url, function (data) {
         $.each(data, function (index, posts) {
@@ -24,3 +24,4 @@ function cargarPortafolio() {
 
 
 }
+
